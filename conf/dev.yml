@@ -1,0 +1,4 @@
+remotehost: http://localqa2.artstor.acit.com/
+localhost: http://localhost:3000/
+account: account
+project: projects

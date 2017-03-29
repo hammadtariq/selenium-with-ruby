@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'rest-client'
+gem 'jsonpath'
+gem 'cucumber'
+gem 'rspec-expectations'
+gem 'json'
+gem 'selenium-webdriver'
